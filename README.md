@@ -1,15 +1,3 @@
-<!--## Hey👋 I'm Maruf
-
-- 🔭 I’m currently working on Web Development Projects
-- 🌱 I’m currently learning Frameworks
-- 👯 I’m looking to collaborate on Backend and AI-powered Projects
-- 🤔 I’m looking for help with Open-Source contributions and real-world Projects
-- 💬 Ask me about Backend Web Development
-- 📫 How to reach me: Connect with me through my social profiles
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy turning ideas into real-world projects and learning something new every day!
-
--->
 # Hey 👋 I'm Maruf
 
 
@@ -21,14 +9,16 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Maruf**, a Computer Science & Engineering student who enjoys building software and exploring new technologies.
+Hi! I'm **Maruf**, a Computer Science & Engineering student at **BUBT** who enjoys building software and exploring new technologies.
 
 I'm particularly interested in **Backend Development, Artificial Intelligence, Machine Learning, and Data Science**. I enjoy working with Python and building APIs and database-driven applications.
 
-- 🎓 Currently studying **Computer Science & Engineering**
+- 🎓 CSE student at **Bangladesh University of Business and Technology (BUBT)**
+- 🌾 Currently building **FarmMarket** — a fair-price agricultural marketplace for Bangladeshi farmers
 - 💻 Interested in **Backend Development and Software Engineering**
-- 🐍 Working with **Python, FastAPI, Django, and Flask**
-- 🗄️ Learning and working with **SQL and NoSQL databases**
+- 🐍 Working with **Python, FastAPI, Django & DRF, and TypeScript/React**
+- 🗄️ Working with **MySQL, PostgreSQL, and SQLAlchemy**
+- 🧩 Solved **300+ problems on LeetCode**
 - 🤖 Exploring **Artificial Intelligence, Machine Learning, and Data Science**
 - 🌱 Continuously improving my **Data Structures & Algorithms** skills
 - 🚀 Interested in building practical and meaningful software projects
@@ -46,12 +36,14 @@ I'm particularly interested in **Backend Development, Artificial Intelligence, M
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript" />
 </p>
 
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45" alt="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45" alt="FastAPI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="45" alt="Flask" />
@@ -91,7 +83,25 @@ I'm particularly interested in **Backend Development, Artificial Intelligence, M
 
 ## 🚀 Featured Projects
 
-### 🌾 Amader Krishi AI
+### 🌾 FarmMarket
+
+An AI-powered, bilingual (Bangla/English) fair-price agricultural marketplace connecting farmers directly with buyers — no middlemen, no hidden margins. Built with Team Agronexis for a hackathon.
+
+**Key Features:**
+- 🤝 Smart demand matching between farmer listings and buyer demand
+- 📈 8-week price forecasting with scikit-learn
+- 🤖 Krishi Bondhu — Gemini-powered AI farming assistant (text, voice & image-based crop disease detection)
+- 🚚 Logistics planning with live routes
+- 🔳 QR-based Digital Twin batch tracking from farm to buyer
+- 🌦️ Live weather and daily market prices across 5 hubs in Bangladesh
+
+**Tech Stack:** React, TypeScript, Python, FastAPI, MySQL, scikit-learn, Google Gemini, Docker
+
+🔗 [Live Demo](https://farmmarket-gdcm.onrender.com) · [View Project](https://github.com/marufHtuhin/FarmMarket)
+
+---
+
+### 🌾 AmaderKrishi AI
 
 An AI-powered agriculture assistance system designed to help farmers with agricultural information and crop-related problems.
 
@@ -126,6 +136,22 @@ A backend-focused Point of Sale API designed to manage products, users, authenti
 
 ---
 
+### 🐍 Snake Game AI
+
+A Snake game built with Python and Pygame, featuring an autonomous AI mode that plays the game by itself using A* pathfinding with flood-fill safety checks — alongside classic manual play.
+
+**Key Features:**
+- 🧠 Autonomous AI gameplay with A* pathfinding
+- 🛡️ Flood-fill safety checks so the AI never traps itself
+- 🎮 Manual player controls
+- 🌐 Playable web demo via GitHub Pages
+
+**Tech Stack:** Python, Pygame, GitHub Pages
+
+🔗 [Live Demo](https://marufhtuhin.github.io/Snake-Game-AI/) · [View Project](https://github.com/marufHtuhin/Snake-Game-AI)
+
+---
+
 
 ###
 
@@ -140,41 +166,8 @@ A backend-focused Point of Sale API designed to manage products, users, authenti
 
 
 ## 📊 GitHub Statistics
-<!--
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marufHtuhin&theme=github_dark" alt="Maruf's GitHub Profile Details" />
-</p>
-
-<br clear="both">
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=maruf-0007&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-</div>
--->
-<!--
-<br clear="both">
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=maruf-0007&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://raw.githubusercontent.com/maruf-0007/maruf-0007/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=maruf-0007&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/maruf-0007/maruf-0007/activity-graph-output/activity-graph.svg?radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=maruf-0007&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
--->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marufHtuhin&card_width=860&card_height=243)](https://git.io/streak-stats)
-
 
 
 <div data-importer="stats" align="center">
@@ -188,6 +181,14 @@ A backend-focused Point of Sale API designed to manage products, users, authenti
 ## 📫 Connect With Me
 
 <p align="center">
+
+  <a href="https://marufhtuhin.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+
+  <a href="https://leetcode.com/u/marufHtuhin">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
 
   <a href="mailto:marufh2894@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
