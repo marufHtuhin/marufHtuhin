@@ -101,6 +101,22 @@ An AI-powered, bilingual (Bangla/English) fair-price agricultural marketplace co
 
 ---
 
+### 🐍 Snake Game AI
+
+A Snake game built with Python and Pygame, featuring an autonomous AI mode that plays the game by itself using A* pathfinding with flood-fill safety checks — alongside classic manual play.
+
+**Key Features:**
+- 🧠 Autonomous AI gameplay with A* pathfinding
+- 🛡️ Flood-fill safety checks so the AI never traps itself
+- 🎮 Manual player controls
+- 🌐 Playable web demo via GitHub Pages
+
+**Tech Stack:** Python, Pygame, GitHub Pages
+
+🔗 [Live Demo](https://marufhtuhin.github.io/Snake-Game-AI/) · [View Project](https://github.com/marufHtuhin/Snake-Game-AI)
+
+---
+
 ### 🌾 AmaderKrishi AI
 
 An AI-powered agriculture assistance system designed to help farmers with agricultural information and crop-related problems.
@@ -136,21 +152,6 @@ A backend-focused Point of Sale API designed to manage products, users, authenti
 
 ---
 
-### 🐍 Snake Game AI
-
-A Snake game built with Python and Pygame, featuring an autonomous AI mode that plays the game by itself using A* pathfinding with flood-fill safety checks — alongside classic manual play.
-
-**Key Features:**
-- 🧠 Autonomous AI gameplay with A* pathfinding
-- 🛡️ Flood-fill safety checks so the AI never traps itself
-- 🎮 Manual player controls
-- 🌐 Playable web demo via GitHub Pages
-
-**Tech Stack:** Python, Pygame, GitHub Pages
-
-🔗 [Live Demo](https://marufhtuhin.github.io/Snake-Game-AI/) · [View Project](https://github.com/marufHtuhin/Snake-Game-AI)
-
----
 
 
 ###
