@@ -101,6 +101,26 @@ An AI-powered, bilingual (Bangla/English) fair-price agricultural marketplace co
 
 ---
 
+### 📡 PulseWatch AI
+
+An intelligent API monitoring and anomaly alert platform that watches your APIs around the clock and explains incidents in plain language.
+
+**Key Features:**
+- 📊 Real-time API monitoring with uptime, latency and status tracking
+- 🚨 11-rule anomaly detection — slow responses, HTTP errors, timeouts, SSL expiry & more
+- 🤖 AI-generated incident explanations with OpenRouter
+- 📲 Instant Telegram alerts with severity filtering
+- 📈 P50/P95/P99 latency percentiles and historical trends
+- 🔐 Multi-user SaaS with JWT auth, forgot-password OTP and admin panel
+
+**Tech Stack:** React, JavaScript, Python, FastAPI, MySQL, OpenRouter, Telegram Bot API, Docker
+
+🔗 [Live Demo](https://pulsewatchai.vercel.app) · [View Project](https://github.com/marufHtuhin/PulseWatch-AI)
+
+🧪 Try the live demo with `test@test.com` / `test@1234`
+
+---
+
 ### 🐍 Snake Game AI
 
 A Snake game built with Python and Pygame, featuring an autonomous AI mode that plays the game by itself using A* pathfinding with flood-fill safety checks — alongside classic manual play.
